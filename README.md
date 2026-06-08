@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-* ANA VAN ACKERE - Legajo: 
+* ANA VAN ACKERE - Legajo: 0160815
 * LEONEL DAVID DADAMIA - Legajo: 0162341
 * PABLO AGUSTIN SPINELLI - Legajo: 0127071
 
